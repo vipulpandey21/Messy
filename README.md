@@ -43,6 +43,3 @@ Messo is a comprehensive mess management system designed to streamline the opera
 - npm
 - MongoDB
 
-### Installation
-
-1. Clone the repository:
