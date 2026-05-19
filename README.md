@@ -1,4 +1,3 @@
-````md
 # Messo - Mess Management System
 
 ## Overview
@@ -89,7 +88,7 @@ Make sure the following are installed on your system:
 ```bash
 git clone https://github.com/vipulpandey21/Messo.git
 cd Messo
-````
+```
 
 ### Backend Setup
 
@@ -137,8 +136,8 @@ npm start
 
 The application will run on:
 
-* Frontend: `http://localhost:3000`
-* Backend: `http://localhost:5000`
+- Frontend: `http://localhost:3000`
+- Backend: `http://localhost:5000`
 
 ---
 
@@ -178,34 +177,30 @@ Messo/
 ## API Endpoints
 
 ### Authentication
-
-* `POST /api/auth/register`
-* `POST /api/auth/login`
+- `POST /api/auth/register`
+- `POST /api/auth/login`
 
 ### Menu
-
-* `GET /api/menu`
-* `POST /api/menu`
+- `GET /api/menu`
+- `POST /api/menu`
 
 ### Complaints
-
-* `POST /api/complaints`
-* `GET /api/complaints`
+- `POST /api/complaints`
+- `GET /api/complaints`
 
 ### Announcements
-
-* `GET /api/announcements`
-* `POST /api/announcements`
+- `GET /api/announcements`
+- `POST /api/announcements`
 
 ---
 
 ## Future Improvements
 
-* Real-time notifications
-* Payment gateway integration
-* Attendance tracking system
-* Analytics dashboard
-* Mobile responsive optimization
+- Real-time notifications
+- Payment gateway integration
+- Attendance tracking system
+- Analytics dashboard
+- Mobile responsive optimization
 
 ---
 
@@ -231,8 +226,5 @@ This project is licensed under the MIT License.
 
 **Vipul Pandey**
 
-* GitHub: [https://github.com/vipulpandey21](https://github.com/vipulpandey21)
-* LinkedIn: [https://linkedin.com/in/21vip](https://linkedin.com/in/21vip)
-
-```
-```
+- GitHub: https://github.com/vipulpandey21
+- LinkedIn: https://linkedin.com/in/21vip
