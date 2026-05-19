@@ -1,4 +1,4 @@
-# Messo - Mess Management System
+# Messy - Mess Management System
 
 ## Overview
 
